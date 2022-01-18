@@ -4,19 +4,19 @@
 Former NTs can contribute [here](CONTRIBUTE.md).
 
 ## Contents
-[About the Contributors](##contributors)
+[About the Contributors](#contributors)
 
-[About NT](##about-nt)
+[About NT](#about-nt)
 
-[Before NT](##before-nt)
+[Before NT](#before-nt)
 
-[During NT](##during-nt)
+[During NT](#during-nt)
 
-[After NT](##after-nt)
+[After NT](#after-nt)
 
 
 ## Contributors
-* My name is Hamza[https://www.linkedin.com/in/hamza-algamoos/], and I was a New Tech during the 2021 summer. I am now an upcoming Software Engineer intern at Microsoft. First in the family to go to college. Before New Techs, I was working different crappy jobs while balancing school and struggling to break into tech. 
+* My name is [Hamza](https://www.linkedin.com/in/hamza-algamoos/), and I was a New Tech during the 2021 summer. I am now an upcoming Software Engineer intern at Microsoft. First in the family to go to college. Before New Techs, I was working different crappy jobs while balancing school and struggling to break into tech. 
 
 ## About NT
 
