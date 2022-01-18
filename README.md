@@ -14,6 +14,8 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 
 [After NT](#after-nt)
 
+[Personal Experiences](#personal-experiences)
+
 
 ## Contributors
 * My name is [Hamza](https://www.linkedin.com/in/hamza-algamoos/), and I was a New Tech during the 2021 summer. I am now an upcoming Software Engineer intern at Microsoft. First in the family to go to college. Before New Techs, I was working different crappy jobs while balancing school and struggling to break into tech. 
@@ -25,4 +27,6 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 ## During NT
 
 ## After NT
+
+## Personal Experiences
 
