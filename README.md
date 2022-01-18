@@ -4,15 +4,15 @@
 Former NTs can contribute [here](CONTRIBUTE.md).
 
 ## Contents
-[About the Contributors](## Contributors)
+[About the Contributors](##-Contributors)
 
-[About NT](## About NT)
+[About NT](##-About NT)
 
-[Before NT](## Before NT)
+[Before NT](##-Before NT)
 
-[During NT](## During NT)
+[During NT](##-During NT)
 
-[After NT](## After NT)
+[After NT](##-After NT)
 
 
 ## Contributors
