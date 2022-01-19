@@ -4,17 +4,33 @@
 Former NTs can contribute [here](CONTRIBUTE.md).
 
 ## Contents
-[About the Contributors](#contributors)
+[Contributors](#contributors)
 
 [About NT](#about-nt)
+- [What is New Techs?](#what-is-new-techs?)
+- [What does an NT do?](#what-does-an-nt-do?)
+- [What can an NT gain through this experience?](#what-can-an-nt-gain-through-this-experience?)
 
 [Before NT](#before-nt)
+- [How to prepare?](#how-to-prepare?)
 
 [During NT](#during-nt)
+- [General Advice](#general-advice)
+- [Dealing Imposter Syndrome](#dealing-imposter-syndrome)
+- [Use a Journal!](#use-a-journal!)
+- [Rough timeline from 2021](#rough-timeline-from-2021)
+- [Working as a Team](#working-as-a-team)
+- [How to Network](#how-to-network)
 
 [After NT](#after-nt)
+- [Referral Process](#referral-process)
+- [Preparing for Explore](#preparing-for-explore)
+- [Preparing for SWE intern](#preparing-for-SWE-intern)
+- [Preparing for PM intern](#preparing-for-PM-intern)
 
 [Personal Experiences](#personal-experiences)
+
+[Other Helpful Resources](#other-helpful-resources)
 
 
 ## Contributors
