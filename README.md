@@ -9,7 +9,7 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 [About NT](#about-nt)
 - [What is New Techs?](#what-is-new-techs)
 - [What does an NT do?](#what-does-an-nt-do)
-- [What can an NT gain through this experience?](#what-can-an-nt-gain-through-this-experienc?)
+- [What can an NT gain through this experience?](#what-can-an-nt-gain-through-this-experience)
 
 [Before NT](#before-nt)
 - [How to prepare?](#how-to-prepare?)
