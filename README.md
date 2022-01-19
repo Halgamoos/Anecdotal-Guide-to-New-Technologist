@@ -22,11 +22,45 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 
 ## About NT
 
+### What is New Techs
+
+### What does an NT do?
+
+### What can an NT gain through this experience?
+
 ## Before NT
+
+### How to prepare?
 
 ## During NT
 
+### General Advice
+
+### Dealing Imposter Syndrome
+
+### Growth mindset
+
+### Use a Journal!
+
+### Rough timeline from 2021
+
+Take this timeline with a grain of salt because it can completely change.
+
+### Working as a Team
+
+### How to Network
+
 ## After NT
 
+### Referral Process
+
+### Preparing for Explore
+
+### Preparing for SWE intern
+
+### Preparing for PM intern
+
 ## Personal Experiences
+
+## Other Helpful Resources
 
