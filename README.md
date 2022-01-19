@@ -22,7 +22,7 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 
 ## About NT
 
-### What is New Techs
+### What is New Techs?
 
 ### What does an NT do?
 
