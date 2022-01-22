@@ -1,6 +1,6 @@
 # Contribute here as a former New Tech!
 
-Thank you for being an **awesome** NT and willing to pay it forward to upcoming NTs. 
+If you are a former NT, take ownership of this repo and make a pull request. Thank you for being an **awesome** NT and willing to pay it forward to upcoming NTs. 
 
 Two options:
 * Make a pull request on the README with whatever insight, correction, comment (really anything) that you want to share.
