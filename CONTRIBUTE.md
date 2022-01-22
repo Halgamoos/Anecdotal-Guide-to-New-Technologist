@@ -1,6 +1,6 @@
 # Contribute here as a former New Tech!
 
-If you are a former NT, take ownership of this repo contribute! 
+If you are a former NT, take ownership of this repo and contribute! 
 
 Thank you for being an **awesome** NT and willing to pay it forward to upcoming NTs. 
 
