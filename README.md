@@ -11,7 +11,7 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 - [What can an NT gain through this experience?](#what-can-an-nt-gain-through-this-experience)
 
 [Before NT](#before-nt)
-- [How to prepare?](#how-to-prepare?)
+- [How to prepare?](#how-to-prepare)
 
 [During NT](#during-nt)
 - [General Advice](#general-advice)
