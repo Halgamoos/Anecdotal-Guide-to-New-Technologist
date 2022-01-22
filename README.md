@@ -49,7 +49,7 @@ Each team of 5 has two coaches, a MSFT Software Engineer and a Program Manager, 
 
 ### What can an NT gain through this experience?
 
-- In the past, the “golden ticket” toward getting into tech was simply having a CS (or relevant) degree. That is no longer the case. For many, NT was the “golden ticket” opportunity that gave them the proper jumpstart they needed. This is even more true for minorities and individuals who have non-traditional backgrounds. They simply don’t have the same opportunities that most do.
+- In the past, the “golden ticket” toward getting into tech or any field was simply having a college degree. That is no longer the case. For many, NT was the “golden ticket” opportunity that gave them the proper jumpstart they needed. This is even more true for minorities and individuals who have non-traditional backgrounds. They simply don’t have the same opportunities that most do.
 - Honestly, NT is such a fun and rewarding experience. Not only do you learn a lot about the tech industry, you learn more about yourself. You get constantly pushed out of your comfort zone and end up amazed about how much you were able to accomplish so much in a short time. 
 - You make so many meaningful connections and friends! You’ll meet so many bright-minded, hard-working, and enthusiastic individuals from many different backgrounds.
 - Doing well in the program gets you a referral. This referral gives you an opportunity to final round interviews at Microsoft for either explore, software engineering, or program manager internships. These don’t grow on trees, ya know!
