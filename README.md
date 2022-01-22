@@ -15,7 +15,7 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 
 [During NT](#during-nt)
 - [General Advice](#general-advice)
-- [Dealing Imposter Syndrome](#dealing-imposter-syndrome)
+- [Dealing with Imposter Syndrome](#dealing-with-imposter-syndrome)
 - [Use a Journal!](#use-a-journal!)
 - [Rough timeline from 2021](#rough-timeline-from-2021)
 - [Working as a Team](#working-as-a-team)
@@ -84,7 +84,7 @@ Technical resources relating to the points above:
 
 ### General Advice
 
-### Dealing Imposter Syndrome
+### Dealing with Imposter Syndrome
 
 ### Growth mindset
 
