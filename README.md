@@ -73,10 +73,10 @@ Technical Preparations:
 - Skip to the “After NT” section and get a head start for your upcoming recruiting season.
 
 Technical resources relating to the points above:
-- https://www.youtube.com/watch?v=ORrELERGIHs
+- [VSCode Tutorial For Beginners - Getting Started With VSCode](https://www.youtube.com/watch?v=ORrELERGIHs)
 - To-do list project you can follow:
-  * https://www.youtube.com/watch?v=MkESyVB4oUw
-- https://www.youtube.com/watch?v=jWLUhHWXMT8
+  * [Build a Todo list app in HTML, CSS & JavaScript in 2021 | JavaScript for Beginners tutorial](https://www.youtube.com/watch?v=MkESyVB4oUw)
+- [GitHub with VS Code](https://www.youtube.com/watch?v=jWLUhHWXMT8)
 
 **Remember! If you don’t do any of these, you’re not behind in any way, shape, or form. Don’t stress at all about this section.**
 
