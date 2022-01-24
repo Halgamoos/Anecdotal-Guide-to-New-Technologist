@@ -95,8 +95,7 @@ What can this look like?
 - Always have your camera on w/ proper lighting
 - Being attentive and focused 
 - Ask clarifying questions whenever you’re stuck or unsure of what to do next
-- Keep a journal present to write down notes, questions, goals, and more
- * More on this later
+- Keep a journal present to write down notes, questions, goals, and more (more on this later)
 - Being comfortable with being uncomfortable
 
 ### Growth Mindset
