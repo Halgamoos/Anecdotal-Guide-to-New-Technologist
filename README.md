@@ -102,15 +102,14 @@ What can this look like?
 
 During this internship, you’ll learn how to embrace a growth mindset. Read what Microsoft believes about Growth Mindset from their own website.
 
-“We fundamentally believe that we need a culture founded in a growth mindset. It starts with a belief that everyone can grow and develop; that potential is nurtured, not pre-determined; and that anyone can change their mindset. We need to be always learning and insatiably curious. We need to be willing to lean in to uncertainty, take risks and move quickly when we make mistakes, recognizing failure happens along the way to mastery. And we need to be open to the ideas of others, where the success of others does not diminish our own.”
-- https://careers.microsoft.com/us/en/culture
+“We fundamentally believe that we need a culture founded in a growth mindset. It starts with a belief that everyone can grow and develop; that potential is nurtured, not pre-determined; and that anyone can change their mindset. We need to be always learning and insatiably curious. We need to be willing to lean in to uncertainty, take risks and move quickly when we make mistakes, recognizing failure happens along the way to mastery. And we need to be open to the ideas of others, where the success of others does not diminish our own.” - https://careers.microsoft.com/us/en/culture
 
 At New Techs, you’re encouraged to take risks and step out of your comfort zone. Read that sentence again and again until it is cemented into your brain. If you ever feel like you’re being pushed towards unfamiliar and uncomfortable territory during NT, that is by design! 
 
 One thing that NT tries to teach is to rethink what it means to fail. Is failing at something always a bad thing? It isn’t. Failing is simply a part of life and reflecting on why we failed can offer so many lessons that can help us make progress towards our goals. In NT, you are actually encouraged to take risks and fail. Leveraging your past failures and learning from them is one of the most efficient ways to learn and build a product. 
 
 *Therefore, during NT, you will “fail fast, fail often, and fail forward.”*
-- Hear Will Smith talk more on this quote: [Will Smith Says Fail Early, Fail Often, And Fail Forward. Fail A Lot](https://www.youtube.com/watch?v=AXub00S8mks)
+- Hear Will Smith talk more on this quote: [VIDEO: Will Smith Says Fail Early, Fail Often, And Fail Forward. Fail A Lot](https://www.youtube.com/watch?v=AXub00S8mks)
 
 - [VIDEO: Developing A Growth Mindset](https://www.youtube.com/watch?v=rUJkbWNnNy4)
 
