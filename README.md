@@ -61,7 +61,8 @@ Each team of 5 has two coaches, a MSFT Software Engineer and a Program Manager, 
 Honestly, you’re good enough as you are right now! Don’t stress too much about being “prepared” because you were picked to be an NT for a reason. You will be taught everything you need to do well! Again, completely optional, but for those who just can’t wait to get a headstart, here are some things that might be helpful to do beforehand.
 
 - Set up your dedicated “workspace”. If possible, since this opportunity is remote, dedicate a quiet and non-distracting space where you live **only** for working in NT. This can be as simple as a desk or table where you work on your provided work laptop. Why? Have you ever tried to focus inside a burning building? Our behavior is often influenced by the environment that we are in. For example, if you try to study in the same area you eat, Netflix and chill, and play video games, it will be too hard for you to get into deep working sessions and pay attention during your internship. 
-  * More on dedicated workspaces: [Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g)
+  * More on dedicated workspaces: [VIDEO: Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g)
+  * [VIDEO: Working From Home: How to Stay Focused](https://www.youtube.com/watch?v=AgIggrkBFcU)
 - Make a LinkedIn post about getting into NT. This is a powerful networking opportunity because other accepted NTs will connect with you and talk about how they’re looking forward to the internship. 
 - Make an unofficial discord server and have enough mods to maintain the server. Add channels and bots like every other server. Mods should take responsibility for keeping the server organized and lively. I can’t imagine this past NT experience without the discord server! 
 
@@ -72,10 +73,10 @@ Technical Preparations:
 - Skip to the “After NT” section and get a head start for your upcoming recruiting season.
 
 Technical resources relating to the points above:
-- [VSCode Tutorial For Beginners - Getting Started With VSCode](https://www.youtube.com/watch?v=ORrELERGIHs)
+- [VIDEO: VSCode Tutorial For Beginners - Getting Started With VSCode](https://www.youtube.com/watch?v=ORrELERGIHs)
 - To-do list project you can follow:
-  * [Build a Todo list app in HTML, CSS & JavaScript in 2021 | JavaScript for Beginners tutorial](https://www.youtube.com/watch?v=MkESyVB4oUw)
-- [GitHub with VS Code](https://www.youtube.com/watch?v=jWLUhHWXMT8)
+  * [VIDEO: Build a Todo list app in HTML, CSS & JavaScript in 2021 | JavaScript for Beginners tutorial](https://www.youtube.com/watch?v=MkESyVB4oUw)
+- [VIDEO: GitHub with VS Code](https://www.youtube.com/watch?v=jWLUhHWXMT8)
 
 **Remember! If you don’t do any of these, you’re not behind in any way, shape, or form. Don’t stress at all about this section.**
 
