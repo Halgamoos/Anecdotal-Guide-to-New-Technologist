@@ -111,7 +111,7 @@ At New Techs, you’re encouraged to take risks and step out of your comfort zon
 One thing that NT tries to teach is to rethink what it means to fail. Is failing at something always a bad thing? It isn’t. Failing is simply a part of life and reflecting on why we failed can offer so many lessons that can help us make progress towards our goals. In NT, you are actually encouraged to take risks and fail. Leveraging your past failures and learning from them is one of the most efficient ways to learn and build a product. 
 
 *Therefore, during NT, you will “fail fast, fail often, and fail forward.”*
-- Hear Will Smith talk more on this quote: https://medium.com/@davidbrown_70853/fail-early-fail-often-and-fail-forward-58b591f17132 
+- Hear Will Smith talk more on this quote: [Will Smith Says Fail Early, Fail Often, And Fail Forward. Fail A Lot](https://www.youtube.com/watch?v=AXub00S8mks)
 
 - [VIDEO: Developing A Growth Mindset](https://www.youtube.com/watch?v=rUJkbWNnNy4)
 
