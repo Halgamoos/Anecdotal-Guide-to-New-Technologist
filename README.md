@@ -18,6 +18,7 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 - [Growth Mindset](#growth-mindset)
 - [Dealing with Imposter Syndrome](#dealing-with-imposter-syndrome)
 - [Use a Journal!](#use-a-journal!)
+- [How to get unstuck](#how-to-get-unstuck)
 - [Working as a Team](#working-as-a-team)
 - [How to Network](#how-to-network)
 
@@ -116,6 +117,8 @@ One thing that NT tries to teach is to rethink what it means to fail. Is failing
 ### Dealing with Imposter Syndrome
 
 ### Use a Journal!
+
+### How to get unstuck
 
 ### Working as a Team
 
