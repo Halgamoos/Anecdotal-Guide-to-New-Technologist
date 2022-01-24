@@ -91,13 +91,13 @@ Technical resources relating to the points above:
 Take this opportunity seriously and don’t treat it like just some other online class. You were chosen over so many deserving candidates and you’re getting paid! This means being punctual, diligent, grateful, and open to making mistakes and learning from them. 
 
 What can this look like?
-* Going to every meeting early (on time is late)
-* Always have your camera on w/ proper lighting
-* Being attentive and focused 
-* Ask clarifying questions whenever you’re stuck or unsure of what to do next
-* Keep a journal present to write down notes, questions, goals, and more
- - More on this later
-* Being comfortable with being uncomfortable
+- Going to every meeting early (on time is late)
+- Always have your camera on w/ proper lighting
+- Being attentive and focused 
+- Ask clarifying questions whenever you’re stuck or unsure of what to do next
+- Keep a journal present to write down notes, questions, goals, and more
+ * More on this later
+- Being comfortable with being uncomfortable
 
 ### Growth Mindset
 
