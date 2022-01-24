@@ -17,7 +17,6 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 - [General Advice](#general-advice)
 - [Dealing with Imposter Syndrome](#dealing-with-imposter-syndrome)
 - [Use a Journal!](#use-a-journal!)
-- [Rough timeline from 2021](#rough-timeline-from-2021)
 - [Working as a Team](#working-as-a-team)
 - [How to Network](#how-to-network)
 
@@ -89,10 +88,6 @@ Technical resources relating to the points above:
 ### Growth mindset
 
 ### Use a Journal!
-
-### Rough timeline from 2021
-
-Take this timeline with a grain of salt because it can completely change.
 
 ### Working as a Team
 
