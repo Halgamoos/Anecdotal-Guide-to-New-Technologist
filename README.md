@@ -15,7 +15,7 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 
 [During NT](#during-nt)
 - [General Advice](#general-advice)
-- [Growth Mindset](#grown-mindset)
+- [Growth Mindset](#growth-mindset)
 - [Dealing with Imposter Syndrome](#dealing-with-imposter-syndrome)
 - [Use a Journal!](#use-a-journal!)
 - [Working as a Team](#working-as-a-team)
@@ -113,7 +113,7 @@ One thing that NT tries to teach is to rethink what it means to fail. Is failing
 *Therefore, during NT, you will “fail fast, fail often, and fail forward.”*
 - Hear Will Smith talk more on this quote: https://medium.com/@davidbrown_70853/fail-early-fail-often-and-fail-forward-58b591f17132 
 
-- [VIDEO: Developing A Growth Mindset]
+- [VIDEO: Developing A Growth Mindset](https://www.youtube.com/watch?v=rUJkbWNnNy4)
 
 ### Dealing with Imposter Syndrome
 
