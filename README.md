@@ -15,6 +15,7 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 
 [During NT](#during-nt)
 - [General Advice](#general-advice)
+- [Growth Mindset](#grown-mindset)
 - [Dealing with Imposter Syndrome](#dealing-with-imposter-syndrome)
 - [Use a Journal!](#use-a-journal!)
 - [Working as a Team](#working-as-a-team)
@@ -61,7 +62,8 @@ Each team of 5 has two coaches, a MSFT Software Engineer and a Program Manager, 
 Honestly, you’re good enough as you are right now! Don’t stress too much about being “prepared” because you were picked to be an NT for a reason. You will be taught everything you need to do well! Again, completely optional, but for those who just can’t wait to get a headstart, here are some things that might be helpful to do beforehand.
 
 - Set up your dedicated “workspace”. If possible, since this opportunity is remote, dedicate a quiet and non-distracting space where you live **only** for working in NT. This can be as simple as a desk or table where you work on your provided work laptop. Why? Have you ever tried to focus inside a burning building? Our behavior is often influenced by the environment that we are in. For example, if you try to study in the same area you eat, Netflix and chill, and play video games, it will be too hard for you to get into deep working sessions and pay attention during your internship. 
-  * More on dedicated workspaces: [VIDEO: Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g)
+  * More on dedicated workspaces: 
+  * [VIDEO: Working from Home: How to Set Up Your Workspace](https://www.youtube.com/watch?v=tMTxikrSe8g)
   * [VIDEO: Working From Home: How to Stay Focused](https://www.youtube.com/watch?v=AgIggrkBFcU)
 - Make a LinkedIn post about getting into NT. This is a powerful networking opportunity because other accepted NTs will connect with you and talk about how they’re looking forward to the internship. 
 - Make an unofficial discord server and have enough mods to maintain the server. Add channels and bots like every other server. Mods should take responsibility for keeping the server organized and lively. I can’t imagine this past NT experience without the discord server! 
@@ -84,9 +86,36 @@ Technical resources relating to the points above:
 
 ### General Advice
 
-### Dealing with Imposter Syndrome
+*Some advice here goes without saying. But we’re still gonna say it 😊.*
 
-### Growth mindset
+Take this opportunity seriously and don’t treat it like just some other online class. You were chosen over so many deserving candidates and you’re getting paid! This means being punctual, diligent, grateful, and open to making mistakes and learning from them. 
+
+What can this look like?
+* Going to every meeting early (on time is late)
+* Always have your camera on w/ proper lighting
+* Being attentive and focused 
+* Ask clarifying questions whenever you’re stuck or unsure of what to do next
+* Keep a journal present to write down notes, questions, goals, and more
+ - More on this later
+* Being comfortable with being uncomfortable
+
+### Growth Mindset
+
+During this internship, you’ll learn how to embrace a growth mindset. Read what Microsoft believes about Growth Mindset from their own website.
+
+“We fundamentally believe that we need a culture founded in a growth mindset. It starts with a belief that everyone can grow and develop; that potential is nurtured, not pre-determined; and that anyone can change their mindset. We need to be always learning and insatiably curious. We need to be willing to lean in to uncertainty, take risks and move quickly when we make mistakes, recognizing failure happens along the way to mastery. And we need to be open to the ideas of others, where the success of others does not diminish our own.”
+- https://careers.microsoft.com/us/en/culture
+
+At New Techs, you’re encouraged to take risks and step out of your comfort zone. Read that sentence again and again until it is cemented into your brain. If you ever feel like you’re being pushed towards unfamiliar and uncomfortable territory during NT, that is by design! 
+
+One thing that NT tries to teach is to rethink what it means to fail. Is failing at something always a bad thing? It isn’t. Failing is simply a part of life and reflecting on why we failed can offer so many lessons that can help us make progress towards our goals. In NT, you are actually encouraged to take risks and fail. Leveraging your past failures and learning from them is one of the most efficient ways to learn and build a product. 
+
+*Therefore, during NT, you will “fail fast, fail often, and fail forward.”*
+- Hear Will Smith talk more on this quote: https://medium.com/@davidbrown_70853/fail-early-fail-often-and-fail-forward-58b591f17132 
+
+- [VIDEO: Developing A Growth Mindset]
+
+### Dealing with Imposter Syndrome
 
 ### Use a Journal!
 
