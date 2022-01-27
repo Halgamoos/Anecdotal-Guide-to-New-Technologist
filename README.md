@@ -18,7 +18,6 @@ Former NTs can contribute [here](CONTRIBUTE.md).
 - [Growth Mindset](#growth-mindset)
 - [Dealing with Imposter Syndrome](#dealing-with-imposter-syndrome)
 - [Use a Journal!](#use-a-journal!)
-- [How to get unstuck](#how-to-get-unstuck)
 - [Working as a Team](#working-as-a-team)
 - [How to Network](#how-to-network)
 
@@ -116,9 +115,28 @@ One thing that NT tries to teach is to rethink what it means to fail. Is failing
 
 ### Dealing with Imposter Syndrome
 
-### Use a Journal!
+According to a report from a [Blind](https://www.teamblind.com/blog/index.php/2018/09/05/58-percent-of-tech-workers-feel-like-impostors/) post, 70 percent of tech employees experienced imposter syndrome in the past. I believe the other 30 percent are lying. The experience of imposter syndrome can often be worse if you are a minority or come from a non-traditional background. 
 
-### How to get unstuck
+One thing that helps you minimize the effects of imposter syndrome is to stop comparing yourself to others. I’d argue, it’s actually irrational to compare yourself to someone else considering that there are so many different variables in one’s own life. Just because you have a different background than someone “ahead” of you, does not necessitate that you do not have the capability of learning and doing well. Never doubt the fact that you got accepted into NT. Believe me, you were not accepted by the Cyborg Mobile and Microsoft crew by accident.
+
+Notes to help you overcome imposter syndrome (taken directly from this [Video](https://www.youtube.com/watch?v=b6JbvYhrgP4)). The speaker is a former Meta software engineer:
+
+What is Imposter Syndrome?
+- Feeling like you don’t belong. Believing you are not as competent as people perceive you to be.
+
+Impacts of imposter syndrome
+- Makes you sensitive to any criticism
+- Fear of failure, working harder than necessary
+- Makes you lacking in initiative or self-advocacy
+
+Accept that imposter syndrome is normal
+- Everyone feels inadequate at times
+- Reframe your attitude toward discomfort. Meaning, look at discomfort as growth. 
+
+Read this empowering article on overcoming imposter syndrome as a tech employee: 
+- https://medium.com/wearefutureworks/58-of-tech-employees-experience-imposter-syndrome-heres-how-to-overcome-it-78172d8a2258
+
+### Use a Journal!
 
 ### Working as a Team
 
