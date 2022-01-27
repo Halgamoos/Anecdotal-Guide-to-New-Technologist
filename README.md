@@ -146,6 +146,8 @@ Read this empowering article on overcoming imposter syndrome as a tech employee:
 
 ### Referral Process
 
+Let’s start with what the NT referral process is not. It is NOT a competition. *Everyone has the opportunity to get a referral.*
+
 ### Preparing for Explore
 
 ### Preparing for SWE intern
