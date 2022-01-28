@@ -3,6 +3,8 @@
 
 Former NTs can contribute [here](CONTRIBUTE.md).
 
+Non-NTs can greatly benefit from the [After NT](#after-nt) section where aceing Explore/SWE/PM final round intern Microsoft interviews is the primary concern.
+
 ## Contents
 [Contributors](#contributors)
 
