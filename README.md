@@ -36,7 +36,7 @@ Non-NTs can greatly benefit from the [After NT](#after-nt) section where aceing 
 
 ## Contributors
 * My name is [Hamza](https://www.linkedin.com/in/hamza-algamoos/), and I was a New Tech during the 2021 summer. I am now an upcoming Software Engineer intern at Microsoft. First in the family to go to college. Before New Techs, I was working different crappy jobs while balancing school and struggling to break into tech. 
-
+* Hi! I'm [Vianne](https://www.linkedin.com/in/viannebuinguyen/), and I was a New Tech during Summer 2022. I'm an incoming Product Manager Intern at Microsoft for Summer 2023. In my free time, I like looking at SpongeBob memes.
 ## About NT
 
 ### What is New Techs?
@@ -155,6 +155,72 @@ Let’s start with what the NT referral process is not. It is NOT a competition.
 ### Preparing for SWE intern
 
 ### Preparing for PM intern
+#### Interview Process 
+So you've been contacted by a recruiter to schedule your final interviews. Congrats!
+Your final round will consist of 2-4 interviews. Each interview will last about 60 minutes.
+You will typically be interviewed by senior or principal PMs of the product team that will hire you.
+You can expect to be asked mostly behavioral and product design questions (more on that below!).
+
+After your interviews, your interviewers will communicate with each other and make the
+final decision to hire you or not. Then, they will communicate the decision your recruiter who will 
+notify you over email. 
+
+#### Types of Questions
+According to this [IGotAnOffer blog post](https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview),
+below is a breakdown of the types of questions Microsoft likes to ask and how frequently they get asked:
+
+- **Behavioral questions (46%)**
+  - Tell me about yourself
+  - Why PM?
+  - Why Microsoft?
+  - Tell me about a time you faced a conflict with a teammate and how you overcame it.
+  - How do you maintain morale within a team?
+  - What do you do for fun?
+- **Design questions (28%)**
+  - Design a search engine for kids.
+  - What's your favorite/least favorite product and how would you redesign it?
+  - Design an alarm clock for the blind.
+  - Design an elevator system.
+- **Strategy questions (15%)**
+  - How would you get more users to use your favorite product?
+  - How would you monetize Outlook?
+  - If you were the CEO of Microsoft, how would you increase usage for Internet Explorer?
+- **Technical questions (8%)**
+  - How does the internet work?
+  - Explain recursion to someone who is not technical.
+  - Explain how an API works.
+- **Other questions (3%)**
+  - **Analytics questions:** These questions test how well you work with data.
+    - Uber is experiencing a drop in ride requests, what do you do?
+    - How would you measure the success of Instagram Stories?
+  - **Estimation questions:** These questions test how you think through problems
+   and how comfortable you are making assumptions and simple calculations. Interviewers don't care 
+   so much about whether you get to the right answer as long as it *makes sense* how you got there.
+    - Estimate the total addressable market for a product.
+    - Estimate the number of windows in New York City.
+    - Estimate how many golf balls fit in a Boeing 737 plane.
+
+In my personal experience, Microsoft puts *a lot* of emphasis on behavioral and design questions,
+so that's where you should dedicate at least 70% of your preparation time. 
+
+#### How to Prepare
+- **Read PM Books:** PM books give you a great foundation on how to structure your 
+interview answers. You'll learn classic frameworks for how to answer design questions, 
+strategy questions, and behavioral questions (STAR Method). Below are the ones that were the most 
+helpful to me:
+  - [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818/ref=sr_1_1?crid=3KNSGDTWL44JJ&keywords=cracking+the+pm+interview&qid=1668670948&s=books&sprefix=cracking+th%2Cstripbooks%2C171&sr=1-1) by Gayle Laakmann McDowell and Jackie Bavaro
+    - Good frameworks
+  - [The Product Diploma](https://www.amazon.com/Product-Diploma-Breaking-Management-College-ebook/dp/B07TJLTFHR/ref=sr_1_1?crid=3EBX7PJSRR9HZ&keywords=product+diploma&qid=1668670720&s=books&sprefix=product+diplom%2Cstripbooks%2C151&sr=1-1) by Davis Treybig and Alan Ni
+    - Good if you're wondering what classes to take and clubs to get involved in
+    that will give you the most transferrable skills for PM
+- **Watch Mock Interviews:** Seeing how experienced PMs go about answering commonly asked PM interview questions
+will give you ideas on how to better approach and structure your answers. Below are some of my favorite YouTube channels:
+  - [Exponent](https://www.youtube.com/@tryexponent): Expert mock interviews with current PMs from Microsoft, Google, etc.
+  - [JJ Never Sleeps](https://www.youtube.com/channel/UCXWdg8ZBuuE1E_Ppt23Kpng): Thorough interviews hosted by a LinkedIn PM
+
+- **Practice!!!**: The best way to learn is by practicing! Reach out to other NT's through the NT Discord server to set up mock interviews.
+For about 2 months, I mocked once a week, focusing on a different type of PM question each week! I found mock interviews *THE BEST* way 
+to prepare.
 
 ## Personal Experiences
 
