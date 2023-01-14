@@ -19,9 +19,6 @@ Non-NTs can greatly benefit from the [After NT](#after-nt) section where aceing 
 - [General Advice](#general-advice)
 - [Growth Mindset](#growth-mindset)
 - [Dealing with Imposter Syndrome](#dealing-with-imposter-syndrome)
-- [Use a Journal!](#use-a-journal!)
-- [Working as a Team](#working-as-a-team)
-- [How to Network](#how-to-network)
 
 [After NT](#after-nt)
 - [Referral Process](#referral-process)
@@ -137,12 +134,6 @@ Accept that imposter syndrome is normal
 
 Read this empowering article on overcoming imposter syndrome as a tech employee: 
 - https://medium.com/wearefutureworks/58-of-tech-employees-experience-imposter-syndrome-heres-how-to-overcome-it-78172d8a2258
-
-### Use a Journal!
-
-### Working as a Team
-
-### How to Network
 
 ## After NT
 
