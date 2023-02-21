@@ -26,8 +26,6 @@ Non-NTs can greatly benefit from the [After NT](#after-nt) section where aceing 
 - [Preparing for SWE intern](#preparing-for-SWE-intern)
 - [Preparing for PM intern](#preparing-for-PM-intern)
 
-[Personal Experiences](#personal-experiences)
-
 [Other Helpful Resources](#other-helpful-resources)
 
 
@@ -213,7 +211,5 @@ will give you ideas on how to better approach and structure your answers. Below 
 For about 2 months, I mocked once a week, focusing on a different type of PM question each week! I found mock interviews *THE BEST* way 
 to prepare.
 
-## Personal Experiences
-
 ## Other Helpful Resources
-
+- https://github.com/CourtneyThurston/microsoft-internships
